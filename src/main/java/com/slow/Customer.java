@@ -8,7 +8,10 @@ package com.slow;
  * @Author: cyxstart
  * @CreateTime: 2023/1/20 0020
  * @Version:
+ *
  */
 public class Customer {
+    public static void main(String[] args) {
 
+    }
 }
