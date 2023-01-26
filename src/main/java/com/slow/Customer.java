@@ -30,6 +30,7 @@ public class Customer {
         System.out.println("你好！" + name + "欢迎来到Java世界！");
         System.out.println("你好！" + name + "欢迎来到Java世界！");
         System.out.println("你好！" + name + "欢迎来到Java世界！");
+        System.out.println("push");
 
 
     }
