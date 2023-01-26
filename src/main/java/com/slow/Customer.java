@@ -18,8 +18,10 @@ public class Customer {
         System.out.println("请输入姓名：");
         String name = scanner.next();
         System.out.println(name);
-        System.out.println("密码：");
+        System.out.println("请输入密码：");
         String password = scanner.next();
         System.out.println("password = " + password);
+
+
     }
 }
